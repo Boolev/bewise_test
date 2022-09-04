@@ -1,0 +1,14 @@
+__label__greeting добрый день
+__label__greeting добрый вечер
+__label__greeting доброе утро
+__label__greeting здравствуйте
+__label__greeting приветствую
+__label__intro меня зовут
+__label__intro мое имя
+__label__intro мнеобращаться
+__label__intro позвольте представиться
+__label__end до свидания
+__label__end хорошего вечера
+__label__end хорошего дня
+__label__end доброго дня
+__label__end всего доброго
